@@ -92,4 +92,4 @@ function init() {
   });
 }
 
-init();
+init(); //init update
